@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\bin\Debug\CalculateSalary.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\bin\Debug\CalculateSalary.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\bin\Debug\CalculateSalary.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.Form1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\employeeHw\CalculateSalary\obj\Debug\CalculateSalary.pdb
